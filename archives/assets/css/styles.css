@@ -33,7 +33,7 @@ ul{
     
     list-style: none;   
     display: flex;
-    flex-wrap: wrap;
+    
      
     
    
@@ -42,7 +42,7 @@ ul{
 nav ul li{
     cursor: pointer;
     display: flex;    
-    flex-wrap: wrap;
+
     margin: 8px;
     text-transform: uppercase;
     font-weight: 300;
