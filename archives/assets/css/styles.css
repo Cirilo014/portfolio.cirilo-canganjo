@@ -18,6 +18,7 @@ nav{
     width: 100%;         
     align-items: center;
     justify-content: center;
+   
        
     
 }
@@ -45,7 +46,7 @@ nav ul li{
     margin: 8px;
     text-transform: uppercase;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 17px;
     
 }
 
@@ -231,7 +232,7 @@ footer{
 }
 
 footer span{
-    font-size: 15pt;
+    font-size: 13pt;
 }
 
 
